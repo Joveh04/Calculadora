@@ -58,6 +58,23 @@ nav ul li a{
 nav ul li a:hover{
     color:purple;
 }
+#calculadora{
+
+  border: solid purple;
+  border-radius: 4px;
+  background-color: black;
+  color: purple;
+  padding: 4%;
+  margin: 5%;
+
+}
+button{
+  background-color: purple;
+  border-radius: 4px;
+  color: black;
+  padding: 1%;
+  
+}
   
   footer {
     padding: 1%;
